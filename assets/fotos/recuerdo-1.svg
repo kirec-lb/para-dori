@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+<rect width="800" height="1000" fill="#e5d8c6"/>
+<rect x="28" y="28" width="744" height="944" fill="none" stroke="#a88b75" stroke-width="2" stroke-dasharray="8 12" opacity=".7"/>
+<text x="400" y="450" text-anchor="middle" fill="#745b49" font-family="Georgia,serif" font-size="42" font-style="italic">Un recuerdo</text>
+<text x="400" y="510" text-anchor="middle" fill="#927d6b" font-family="Arial,sans-serif" font-size="22">Añade una fotografía</text>
+<text x="400" y="900" text-anchor="middle" fill="#927d6b" font-family="Georgia,serif" font-size="30">♡</text>
+</svg>
